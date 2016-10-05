@@ -2,11 +2,11 @@
 Clone the repo<br>
 <br>
 $ git clone https://github.com/King2rr/python-web-forum.git<br>
+<br>
 cd into folder<br>
-<br>
 $ cd python-web-forum<br>
-start virtual env<br>
 <br>
+start virtual env<br>
 $ source 11_env/bin/activate<br>
 start py server<br>
 <br>
