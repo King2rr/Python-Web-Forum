@@ -1,6 +1,5 @@
 # Python Django Web Forum
-Clone the repo<br>
-<br>
+##Clone the repo<br>
 $ git clone https://github.com/King2rr/python-web-forum.git<br>
 <br>
 cd into folder<br>
