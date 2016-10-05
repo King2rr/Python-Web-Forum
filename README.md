@@ -10,7 +10,7 @@ start virtual env<br>
 $ source 11_env/bin/activate<br>
 start py server<br>
 <br>
-$ $ python manage.py runserver<br>
+$ python manage.py runserver<br>
 point browser to localhost:8000<br>
 localhost:8000<br>
 <br>
