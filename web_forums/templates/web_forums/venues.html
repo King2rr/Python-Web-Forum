@@ -1,0 +1,17 @@
+{% extends "web_forums/base.html" %}
+
+{% block content %}
+	
+  <p>Venues</p>
+  
+  <ul>
+	{% for topic in venues %}
+	  <li>{{ topic }}</a>
+	  </li>
+	{% empty %}
+	  <li>No topics have been added yet.
+	  </li>
+	{% endfor %}
+  </ul>
+
+{% endblock content %}
